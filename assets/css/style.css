@@ -89,11 +89,12 @@ body{
 	}
 
 	.greeny{
+		margin-bottom: 5px;
 		font-size: 20px;
 		font-weight: bold;
 		text-align: left;
 		color:#4aaaa5;
-		padding:20px 5px;
+		padding:10px 5px;
 		border-bottom: 5px;
 		border-bottom-color: #dddddd;
 		border-bottom-style: solid; 
@@ -113,8 +114,20 @@ body{
 		 padding-left:4px;
 		 padding-top: 2px;
 	}
-	.block{
-		padding-top: 5px;
-		display: block;
+	.pad{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		
+	}
+	.pad2{
+		padding-top:5px;
+		padding-bottom: 5px;
+	}
+
+	.enlarge{
+
+		padding-top:5px;
+		min-height: 40px;
+		min-width: 200px;
 	}
 
